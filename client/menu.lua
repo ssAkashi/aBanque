@@ -119,7 +119,7 @@ function openBankMenu()
                         RageUI.Separator("")
                     end
                     for i = 1, #historyTable,1 do
-                        RageUI.ButtonWithStyle(historyTable[i].ingame, "Vous avez la date de transaction, et aussi si c'est un retrait ou un dépot.", { RightLabel = "→→" }, true, function(_,_,s)
+                        RageUI.ButtonWithStyle(historyTable[i].ingame, "Vous avez la date de transaction, et aussi si c'est un retrait ou un dépot.", {}, true, function(_,_,s)
                         end)
                     end
                 end)
