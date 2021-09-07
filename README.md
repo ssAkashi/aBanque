@@ -4,7 +4,7 @@ Preview : https://youtu.be/AbI3VWlgrEg <br>
 
 <h2> 🌐 French </h2>
 
-- 💻 Système de banque es en rageui. <br>
+- 💻 Système de banques en rageui. <br>
 - 💻 Système de carte en item, transactions et compte en bdd, et historique in game + log discord <br>
 - 🔥 Configuration très poussé, complète simple <br>
 - ⚡ Ajout de peds simple, blip positions. <br>
